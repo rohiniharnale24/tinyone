@@ -1,0 +1,96 @@
+.heroimg{
+	padding:60px 0 105px;
+	background-color:#fcdb00;
+
+}
+.logo{
+	height:48px;
+	display:inline-block;
+}
+.navbar ul{
+	display:inline-block;
+	list-style:none;
+}
+
+.navbar li : last-child{
+	margin-right:0;
+}
+
+.navbar li{
+	
+	display:inline-block;
+	margin-right:35px;
+}
+
+.navbar a{
+	
+	padding:0px 18px;
+	font-size:22px;
+	font-weight:bold;
+	color:black;
+	text-transform:capitalize;
+	text-decoration:none;
+	display:inline-block;
+	height:48px;
+	line-height:48px;
+	display:inline block;
+}
+.inspired{
+	padding-top:70px;
+}
+.ipad{
+	padding-top:70px;
+}
+
+.pre-heading{
+    font-size:32px;
+	color:#010101;
+	margin-bottom:22px;
+	
+}
+.sec-heading{
+	font-size:20px;
+	color:#313841;
+	margin-bottom:22px;
+	font-weight:400;
+}
+.para{
+	color:#010101;
+    /*	font-size:16px;*/
+	margin-bottom:40px;
+}
+.brandLink li{
+	display:inline-block;
+	
+}
+.brandLink li i{
+	font-size:40px;
+	margin-right:40px;
+	color: #010101;
+	
+}
+.thumbnail
+{
+	margin-bottom:90px;/* margin bet two block*/
+}
+.thumbheading{
+	
+	color:#010101;
+	font-weight:22px;
+	font-size:22px;
+	margin-bottom:15px;
+}
+.thumbpara {
+	font-size:16px;
+	color:#898989;
+}
+
+.featureSection {
+	padding:120px 0 70px;
+	
+}
+.thumbIcon i{
+	font-size:42px;
+}
+/* footer*/
+
