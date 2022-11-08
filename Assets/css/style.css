@@ -1,96 +1,87 @@
-.heroimg{
-	padding:60px 0 105px;
-	background-color:#fcdb00;
-
+.heroimg {
+  padding: 60px 0 105px;
+  background-color: #fcdb00;
 }
-.logo{
-	height:48px;
-	display:inline-block;
+.logo {
+  height: 48px;
+  display: inline-block;
 }
-.navbar ul{
-	display:inline-block;
-	list-style:none;
-}
-
-.navbar li : last-child{
-	margin-right:0;
+.navbar ul {
+  display: inline-block;
+  list-style: none;
 }
 
-.navbar li{
-	
-	display:inline-block;
-	margin-right:35px;
+.navbarli : last-child {
+  margin-right: 0;
 }
 
-.navbar a{
-	
-	padding:0px 18px;
-	font-size:22px;
-	font-weight:bold;
-	color:black;
-	text-transform:capitalize;
-	text-decoration:none;
-	display:inline-block;
-	height:48px;
-	line-height:48px;
-	display:inline block;
-}
-.inspired{
-	padding-top:70px;
-}
-.ipad{
-	padding-top:70px;
+.navbar li {
+  display: inline-block;
+  margin-right: 35px;
 }
 
-.pre-heading{
-    font-size:32px;
-	color:#010101;
-	margin-bottom:22px;
-	
+.navbar a {
+  padding: 0px 18px;
+  font-size: 22px;
+  font-weight: bold;
+  color: black;
+  text-transform: capitalize;
+  text-decoration: none;
+  display: inline-block;
+  height: 48px;
+  line-height: 48px;
+  display: inline block;
 }
-.sec-heading{
-	font-size:20px;
-	color:#313841;
-	margin-bottom:22px;
-	font-weight:400;
+
+.inspired {
+  padding-top: 70px;
 }
-.para{
-	color:#010101;
-    /*	font-size:16px;*/
-	margin-bottom:40px;
+.ipad {
+  padding-top: 70px;
 }
-.brandLink li{
-	display:inline-block;
-	
+
+.pre-heading {
+  font-size: 32px;
+  color: #010101;
+  margin-bottom: 22px;
 }
-.brandLink li i{
-	font-size:40px;
-	margin-right:40px;
-	color: #010101;
-	
+.sec-heading {
+  font-size: 20px;
+  color: #313841;
+  margin-bottom: 22px;
+  font-weight: 400;
 }
-.thumbnail
-{
-	margin-bottom:90px;/* margin bet two block*/
+.para {
+  color: #010101;
+  /*	font-size:16px;*/
+  margin-bottom: 40px;
 }
-.thumbheading{
-	
-	color:#010101;
-	font-weight:22px;
-	font-size:22px;
-	margin-bottom:15px;
+.brandLink li {
+  display: inline-block;
+}
+.brandLink li i {
+  font-size: 40px;
+  margin-right: 40px;
+  color: #010101;
+}
+.thumbnail {
+  margin-bottom: 90px; /* margin bet two block*/
+}
+.thumbheading {
+  color: #010101;
+  font-weight: 22px;
+  font-size: 22px;
+  margin-bottom: 15px;
 }
 .thumbpara {
-	font-size:16px;
-	color:#898989;
+  font-size: 16px;
+  color: #898989;
 }
 
 .featureSection {
-	padding:120px 0 70px;
-	
+  padding: 120px 0 70px;
 }
-.thumbIcon i{
-	font-size:42px;
+.thumbIcon i {
+  font-size: 42px;
 }
 /* footer*/
-
